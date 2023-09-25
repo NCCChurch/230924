@@ -4,8 +4,8 @@
 
 <audio controls src="./230924.mp3"></audio>
 
-![](./001.jpeg)
-![](./002.jpeg)
+![](./001.JPG)
+![](./002.JPG)
 ![](./003.jpeg)
 ![](./004.jpeg)
 ![](./005.jpeg)
